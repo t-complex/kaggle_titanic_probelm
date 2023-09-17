@@ -256,7 +256,6 @@ def build_the_model(train_file, test_file):
 if __name__ == '__main__':
     # build_random_forest(train_file='train.csv', test_file='test.csv')
     # titanic_prediction('train.csv', 'test.csv')
-
     build_the_model(train_file='train.csv', test_file='test.csv')
 
 
